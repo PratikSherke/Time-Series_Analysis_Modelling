@@ -1,4 +1,4 @@
-# Automobiles Sales Time Series Analysis 
+# Automobiles Sales Prediction Time Series Analysis 
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)
